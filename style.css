@@ -7,7 +7,7 @@
 body {
   background-repeat: no-repeat;
   background-size: 100%;
-  background-image: url("../html\ project\ 2/images/job.jpg");
+  background-image: url("images/job.jpg");
 }
 .container {
   max-width: 900px;
