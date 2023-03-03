@@ -8,6 +8,7 @@ body {
   background-repeat: no-repeat;
   background-size: 100%;
   background-image: url("images/job.jpg");
+  background-attachment: fixed;
 }
 .container {
   max-width: 900px;
